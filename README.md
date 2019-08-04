@@ -3,7 +3,7 @@ Python3 script to execute a dynamic scrape of all archived csv data on bike shar
 
 Leverages BytesIO to open zip files into IO and read csv files directly into a dataframe without downloading each file. 
 
-Created and tested via Jupyter 5.7.8 running Python 3.7.3 from Anaconda 1.9.7.
+Created and tested on MacOS Mojave v10.14.6 via Jupyter 5.7.8 running Python 3.7.3 from Anaconda 1.9.7.
 
 Recommend opening this script in Jupyter and running cells in sequence. 
 
